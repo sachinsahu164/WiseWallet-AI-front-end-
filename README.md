@@ -1,2 +1,7 @@
-# maan-bot
-android app for manage your social media and mobile smarty 
+Expense Tracker Android App
+Built with Kotlin + Jetpack Compose
+Features:
+- Expense tracking
+- Income tracking
+- Analytics
+- Budget management
